@@ -1,7 +1,7 @@
 """
 Tests del Gateway — endpoints principales.
 """
-import pytest
+
 from fastapi.testclient import TestClient
 
 from app.main import app
